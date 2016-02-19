@@ -15,6 +15,7 @@ A program that skins web site based on natural palette of an image. Outputs CSS 
 ![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/compose.stackoverflow.png "Side by side comparison")
 
 ## Just new variants
+![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/stackoverflow.flag.png "One items")
 ![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/google.png "One items")
 ![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/flag.stackoverflow.com.png "Side by side comparison")
 ![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/craiglist.png "Side by side comparison")
