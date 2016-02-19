@@ -4,11 +4,10 @@ A program that skins web site based on natural palette of an image. Outputs CSS 
 **It does work only from Chrome** due to different CopyPasting implementation in different browsers.
 
 #Examples
-## CSS changed
-![CSS changed](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Css changed")
-## Original
-![Original](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Original")
-
+## Side by side comparison
+![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/compose.craiglist.png "Side by side comparison")
+![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/compose.google.png "Side by side comparison")
+![Comparison](https://github.com/MichaelLeachim/colorator/blob/master/examples/compose.github.png "Side by side comparison")
 
 #Disclaimer
 All pictures belong to their authors.
